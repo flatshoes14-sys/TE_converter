@@ -1,0 +1,5 @@
+sample_id,seebeck_uv_per_k,conductivity_s_per_cm,temperature_c,thermal_mw_per_cm_k
+A,210,950,25,15
+B,-180,1100,100,18
+C,250,800,200,12
+D,,760,300,10
